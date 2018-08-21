@@ -24,4 +24,4 @@ For information on how to use the connector and support requests refer to the de
   This community connector require the authentication credentials to login to your Webtrends account.
   Once the login credentials have been approved, it will be enough to provide the ID of your Webtrends Account and the ID of the Report you want to query before connecting.
 - **Dynamic Schema**  
-  Example of automatic generation of a dynamic schema based on the response of the requested Report ID [getSchema()](https://developers.google.com/datastudio/connector/reference#getschema).
+  Example of automatic generation of a dynamic schema based on the response of the requested Report ID, [getSchema()](https://developers.google.com/datastudio/connector/reference#getschema).
