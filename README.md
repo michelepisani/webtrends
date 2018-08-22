@@ -1,12 +1,12 @@
 # webtrends
 Webtrends Community Connector for Google Data Studio
 
+![webtrends data studio community connector](https://user-images.githubusercontent.com/8077996/44444251-3e374d80-a5dc-11e8-8714-be77c7af53c0.png)
+
 *This is not an official Google product*
 
 This [Data Studio](https://datastudio.google.com) [Community
 Connector](https://developers.google.com/datastudio/connector) allows users to access all of their [Webtrends](https://www.webtrends.com/) data in Google Data Studio. This Community Connector uses the **Webtrends API**.
-
-![webtrends data studio community connector](https://user-images.githubusercontent.com/8077996/44444251-3e374d80-a5dc-11e8-8714-be77c7af53c0.png)
 
 ## Try the Community Connector in Data Studio
 
